@@ -1,25 +1,11 @@
+# BetterNether - Community NeoForge Port
+BetterNether Mod for NeoForge, MC 1.21.1
 
-Installation information
-=======
+To achieve the best results, this mod is a total rewrite of BetterNether mod in NeoForge rather than just porting the code over. Bugs or problems might arise, in which case you are required to submit the issues on this repository and NOT on the official BetterNetter repository. 
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+# Disclaimer
+**This project is an unofficial port. Please DO NOT post issues from this mod onto the official Better Nether repository.**
+All rights are reserved for the [Official Better Nether](https://github.com/quiqueck/BetterNether/) authors.
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
-
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
-
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
-
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+## Progress
+This project is a WIP. Right now 0% of the original mod has been implemented.
