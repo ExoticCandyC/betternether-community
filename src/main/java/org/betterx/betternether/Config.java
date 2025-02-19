@@ -1,4 +1,4 @@
-package org.betterx.betternether.betternether;
+package org.betterx.betternether;
 
 import java.util.List;
 import java.util.Set;

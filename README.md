@@ -6,6 +6,8 @@ To achieve the best results, this mod is a total rewrite of BetterNether mod in 
 # Disclaimer
 **This project is an unofficial port. Please DO NOT post issues from this mod onto the official Better Nether repository.**
 All rights are reserved for the [Official Better Nether](https://github.com/quiqueck/BetterNether/) authors.
+<br />[Official BCLib Repository](https://github.com/quiqueck/BCLib)
+<br />[Official Wover Repository](https://github.com/quiqueck/WorldWeaver/tree/1.21/src/client/java/org/betterx/wover)
 
 ## Progress
 This project is a WIP. Right now 0% of the original mod has been implemented.
